@@ -4,12 +4,6 @@
 
 Xposed Module to Disable `FLAG_SECURE`, enabling screenshots and recording in apps that normally wouldn't allow it.
 
-This module is to specifically support Android 8-11.
-
-## Requirements:
-
-- Android 8.0+ (Oreo/SDK 26)
-
 ## Usage for LSPosed:
 
 - Enable the module
