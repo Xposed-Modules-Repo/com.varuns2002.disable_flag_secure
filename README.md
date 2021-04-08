@@ -2,6 +2,8 @@
 
 Xposed Module to Disable `FLAG_SECURE`, enabling screenshots and recording in apps that normally wouldn't allow it.
 
+![Download-Count](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.varuns2002.disable_flag_secure/total?color=blue)
+
 ## Usage for LSPosed:
 
 - Enable the module
