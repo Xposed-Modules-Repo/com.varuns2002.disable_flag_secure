@@ -20,12 +20,16 @@ Xposed Module to Disable `FLAG_SECURE`, enabling screenshots and recording in ap
 
 - Apps Tested on:
     - Amazon Prime Video (Screenshots and Screen Recording of Media)
+    - Netflix (Screenshots and Screen Recording of Media)
     - Telegram (Secret Chat & Disappearing Media)
     - Reddit (Anonymous Browsing Mode)
     - Google Chrome (Incognito Mode)
     - Brave Browser (Incognito Mode)
 
+- Apps Not Working on:
+    - Disney+
 
 - This app is a fork of the existing apps but with better compatibility:
     - https://github.com/veeti/DisableFlagSecure/
     - https://github.com/LSPosed/DisableFlagSecure/
+    - https://gitlab.com/azhao12345/disableflagsecure/
